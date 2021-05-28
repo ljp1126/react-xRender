@@ -21,6 +21,12 @@ export default {
   'menu.form.step-form.confirm': '分步表单（确认转账信息）',
   'menu.form.step-form.result': '分步表单（完成）',
   'menu.form.advanced-form': '高级表单',
+
+  'menu.render-from': 'Render-From',
+  'menu.render-table': 'Render-Table',
+  'menu.render-chart': 'Render-Chart',
+  'menu.render-generator': 'Render-Generator',
+
   'menu.list': '列表页',
   'menu.list.table-list': '查询表格',
   'menu.list.basic-list': '标准列表',

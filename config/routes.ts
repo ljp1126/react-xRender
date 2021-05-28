@@ -43,6 +43,30 @@
     component: './TableList',
   },
   {
+    name: 'render-from',
+    icon: 'table',
+    path: '/renderForm',
+    component: './RenderForm',
+  },
+  {
+    name: 'render-table',
+    icon: 'table',
+    path: '/renderTable',
+    component: './RenderTable',
+  },
+  {
+    name: 'render-chart',
+    icon: 'table',
+    path: '/renderChart',
+    component: './RenderChart',
+  },
+  {
+    name: 'render-generator',
+    icon: 'table',
+    path: '/renderGenerator',
+    component: './RenderGenerator',
+  },
+  {
     path: '/',
     redirect: '/welcome',
   },
